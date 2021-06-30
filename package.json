@@ -1,0 +1,24 @@
+{
+  "name": "typescript-options",
+  "version": "1.0.0",
+  "description": "playing around with typescript typing options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeniorPlace/typescript-options.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeniorPlace/typescript-options/issues"
+  },
+  "homepage": "https://github.com/SeniorPlace/typescript-options#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.4"
+  }
+}
